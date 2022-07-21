@@ -1,0 +1,54 @@
+articles = [
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "JJ Kinahan, Senior Contributor, \n JJ Kinahan, Senior Contributor\n https://www.forbes.com/sites/jjkinahan/",
+    "title": "Economic Data In Focus",
+    "description": "At the end of 2021, the euro was trading at approximately 1.15 to the US dollar Today, the euro is down to 1.03 with analysts at Citi calling for both currencies to potentially trade at parity.",
+    "url": "https://www.forbes.com/sites/jjkinahan/2022/07/05/economic-data-in-focus/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62c45a29d52a358ee3e0d85c/0x0.jpg?format=jpg&width=1200",
+    "publishedAt": "2022-07-05T15:41:44Z",
+    "content": "Markets have been weak of late. A slew of economic reports are the focus this week. (Photo by Peter ... [+] Macdiarmid/Getty Images)\r\nGetty Images\r\nKey Takeaways\r\n<ul><li>Euro and Dollar Approach Par… [+3005 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Barron's"
+    },
+    "author": "Lina Saigol, Al Root",
+    "title": "Did Tesla Lose the EV Crown? What to Know.",
+    "description": "Warren Buffett-backed BYD sold 641,000 vehicles in the first six months of the year.",
+    "url": "https://www.barrons.com/articles/tesla-byd-world-largest-electric-vehicle-seller-51657013911",
+    "urlToImage": "https://images.barrons.com/im-203309/social",
+    "publishedAt": "2022-07-05T15:41:34Z",
+    "content": "Warren Buffett-Backed \r\n BYD\r\n sold more cars than \r\n Tesla\r\n during the first six months of the year, but that doesnt mean its sold the most battery-only electric vehicles.First, the headlines. Shen… [+1717 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "This is Money"
+    },
+    "author": "Angharad Carrick",
+    "title": "Best and worst funds of 2022 so far, as just 6% make a profit",
+    "description": "An overwhelming majority of investment funds have posted losses since the start of the year with high-growth tech leading the charge downhill.",
+    "url": "https://www.thisismoney.co.uk/money/investing/article-10983203/Best-worst-funds-2022-far-just-6-make-profit.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2022/07/05/11/58837923-0-image-a-4_1657016051111.jpg",
+    "publishedAt": "2022-07-05T15:36:07Z",
+    "content": "An overwhelming majority of investment funds have posted losses since the start of the year with high-growth tech leading the charge downhill.\r\nJust 6 per cent of funds in the Investment Association … [+7211 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Kyle Barr",
+    "title": "China Tries to Censor What Could Be Biggest Data Hack in History",
+    "description": "Chinese censors are working overtime to clamp down on news that the data they’ve siphoned from their citizens over the years is apparently out there and is being sold for less than the anticipated cost of a Tesla Roadster.Read more...",
+    "url": "https://gizmodo.com/chinadan-hacker-shanghai-police-database-china-1849142152",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8fa8ca7372f4b70407855ed1dd409660.jpg",
+    "publishedAt": "2022-07-05T15:35:00Z",
+    "content": "Chinese censors are working overtime to clamp down on news that the data theyve siphoned from their citizens over the years is apparently out there and is being sold for less than the anticipated cos… [+3790 chars]"
+    }
+]
